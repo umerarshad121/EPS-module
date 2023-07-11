@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1084796413130",
+    "project_id": "accr-d1d4a",
+    "storage_bucket": "accr-d1d4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084796413130:android:9dfd53b095819d5aa98033",
+        "android_client_info": {
+          "package_name": "com.example.alo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084796413130-4qi6rhau4f6ckhqgmi4kkktie9r847e7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT-mmBgkHKiTaHuMBUxyuIWKQO25ulaCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084796413130-4qi6rhau4f6ckhqgmi4kkktie9r847e7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1084796413130-1g0o56re2oh94erdmupcke15qvqmufnr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.alo.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
